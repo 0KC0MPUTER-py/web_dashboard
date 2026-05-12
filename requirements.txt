@@ -1,2 +1,4 @@
-Dependências necessárias e ferramentas necesssárias:
-1.
+Dependências necesssárias:
+1.streamlit
+2.subprocess
+3.
