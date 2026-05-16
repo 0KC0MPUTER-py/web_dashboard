@@ -1,4 +1,7 @@
-Dependências necesssárias:
+required dependencies:
 1.streamlit
 2.subprocess
-3.
+3.plataform
+
+warning: a virtual enviroment is needed
+
